@@ -4,3 +4,7 @@ body {
     background-size: cover;
     background-position: center;
 }
+
+p {
+  font-weight: bold;
+}
